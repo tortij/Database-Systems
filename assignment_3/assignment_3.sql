@@ -14,7 +14,7 @@ Select cus_code, cus_fname, cus_lname from customer
 Group by cus_code;
 
 
-— List vendor numbers and vendor names. Show vendor count per state.
+- List vendor numbers and vendor names. Show vendor count per state.
 
 Select v_code, v_name from vendor
 Group by v_code;
